@@ -5,20 +5,20 @@
 
 ## 🔍 What I Work On
 
--Full stack development
--Machine learning
+- Full stack development
+- Machine learning
 
 
 ##  🛠️ Tech Stack
 
--Languages: C++, Python, JavaScript, TypeScript, SQL
--Core Concepts: Algorithms & Data Structures, Object-Oriented Programming, System Design.
--Web/Backend: React.js, Next.js, Node.js, Express.js, REST API
--Frameworks: Django, Node.js, Express
--ML/Data: NumPy, Pandas, scikit-learn
--Tools: Git/GitHub, Docker
--Cloud: AWS (EC2, S3), Linux CLI
--Databases: MySQL, MongoDB, GraphQL, Postgres
+- Languages: C++, Python, JavaScript, TypeScript, SQL
+- Core Concepts: Algorithms & Data Structures, Object-Oriented Programming, System Design.
+- Web/Backend: React.js, Next.js, Node.js, Express.js, REST API
+- Frameworks: Django, Node.js, Express
+- ML/Data: NumPy, Pandas, scikit-learn
+- Tools: Git/GitHub, Docker
+- Cloud: AWS (EC2, S3), Linux CLI
+- Databases: MySQL, MongoDB, GraphQL, Postgres
 
 <!---
 omsali/omsali is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
