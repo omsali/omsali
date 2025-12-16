@@ -1,11 +1,22 @@
-- 👋 Hi, I’m @omsali
-- 👀 I’m interested in learning new technologies.
-- 🌱 I’m currently learning front-end web development.
-- 💞️ I’m looking to collaborate on a project on front-web development
-- 📫 How to reach me through
-- twitter handle @omsali14
-- linked-in handle https://www.linkedin.com/in/om-sali-789a241a2
-- Instagram handle i_om_sali
+-- 👋 Hi, I’m @omsali
+
+- I’m a Master’s student in Computer Science at the University of Illinois Chicago, with a strong interest in software engineering, data-driven systems, and applied machine learning. I enjoy building clean, maintainable systems and working on projects that emphasize correctness, reproducibility, and real-world impact.
+- linked-in handle https://www.linkedin.com/in/omsali
+
+-- 🔍 What I Work On
+-Full stack development
+-Machine learning
+
+
+--  🛠️ Tech Stack
+-Languages: C++, Python, JavaScript, TypeScript, SQL
+-Core Concepts: Algorithms & Data Structures, Object-Oriented Programming, System Design.
+-Web/Backend: React.js, Next.js, Node.js, Express.js, REST API
+-Frameworks: Django, Node.js, Express
+-ML/Data: NumPy, Pandas, scikit-learn
+-Tools: Git/GitHub, Docker
+-Cloud: AWS (EC2, S3), Linux CLI
+-Databases: MySQL, MongoDB, GraphQL, Postgres
 
 <!---
 omsali/omsali is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
