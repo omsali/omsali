@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @omsali
 
-- I’m a Master’s student in Computer Science at the University of Illinois Chicago, with a strong interest in software engineering, data-driven systems, and applied machine learning. I enjoy building clean, maintainable systems and working on projects that emphasize correctness, reproducibility, and real-world impact.
+- I’m a Master’s student in Computer Science at the University of Illinois Chicago, with a strong interest in software engineering, data-driven systems, and machine learning. I enjoy building clean, maintainable systems and working on projects that emphasize correctness, reproducibility, and real-world impact.
 - linked-in handle https://www.linkedin.com/in/omsali
 
 ## 🔍 What I Work On
