@@ -13,15 +13,14 @@
 
 ##  🛠️ Tech Stack
 
-- Languages: C++, Python, Java, SQL, JavaScript/TypeScript
-- Core Concepts: Algorithms & Data Structures, Object-Oriented Programming, System Design, SDLC
-- Web/Backend: React.js, Next.js, Node.js, Express.js, REST API, FastAPI, gRPC, Socket.io
-- Data & Infra	Apache Kafka, Redis, PostgreSQL, MongoDB, InfluxDB, AWS (EC2, S3, EMR)
-- DevOps	Docker, Kubernetes, GitHub Actions, Terraform, Kong API Gateway
-- Observability	Prometheus, Grafana, OpenTelemetry, Grafana Tempo
-- ML/Data: NumPy, Pandas, scikit-learn, Regression, Classification, Random forest
-- Tools: Git/GitHub, Docker
-- Databases: MySQL, MongoDB, Redis, Postgres
+- Languages: C++, Python, Java, SQL, JavaScript/TypeScript.
+- Core Concepts: Algorithms & Data Structures, Object-Oriented Programming, System Design, SDLC.
+- Web/Backend: React.js, Next.js, Node.js, Express.js, REST API, FastAPI, gRPC, Socket.io.
+- Data & Infra:	Apache Kafka, Redis, PostgreSQL, MongoDB, InfluxDB, AWS (EC2, S3, EMR).
+- DevOps:	Docker, Kubernetes, GitHub Actions, Terraform, Kong API Gateway.
+- Observability:	Prometheus, Grafana, OpenTelemetry, Grafana Tempo.
+- ML/Data: NumPy, Pandas, scikit-learn, Regression, Classification, Random forest.
+- Databases: MySQL, MongoDB, Redis, Postgres.
 
   ## 📫 Connect with Me
 
